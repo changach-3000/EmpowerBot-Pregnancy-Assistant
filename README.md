@@ -1,9 +1,27 @@
-# Pregnancy-CHATBOT
-This project is aimed at helping answering the most frequently asked questions about pregnancies 
+# EmpowerBot - Pregnancy Journey Support Chatbot
+
+EmpowerBot is an interactive chatbot application specifically designed to offer support and guidance to teen mothers throughout their pregnancy journey. This Streamlit-powered chatbot leverages cutting-edge technologies to provide comprehensive answers to a wide array of questions related to pregnancy, sexual health, and family planning.
 
 ## Overview
 
-This is a Streamlit-powered chatbot application designed to answer common questions related to pregnancy. The chatbot is powered by LangChain and uses an OpenAI language model for question answering.
+EmpowerBot aims to be a reliable and accessible resource for teen mothers, offering valuable information and guidance on various aspects of their pregnancy journey. Whether seeking insights on healthcare facilities, shelters, adoption agencies, sexual education, or family planning, EmpowerBot is equipped to provide accurate and timely responses.
+
+## Features
+
+- **Question Answering:** EmpowerBot uses advanced language processing capabilities powered by LangChain and an OpenAI language model. It's adept at answering queries on numerous topics concerning pregnancy, leveraging robust AI technology to provide accurate and informative responses.
+  
+- **Accessibility:** The chatbot operates within a user-friendly Streamlit interface, ensuring ease of use and accessibility for teen mothers seeking immediate and reliable information.
+
+## Technologies Used
+
+- **Streamlit:** EmpowerBot is built using Streamlit, providing an intuitive and interactive interface for users to engage with the chatbot effortlessly.
+
+- **LangChain and OpenAI Language Model:** The chatbot harnesses LangChain's capabilities along with an OpenAI language model to process and generate responses to users' inquiries accurately.
+
+## Usage
+
+To use EmpowerBot, simply access the Streamlit interface and start interacting with the chatbot. Ask any questions related to pregnancy, sexual health, or family planning, and EmpowerBot will promptly provide helpful information and guidance.
+
 
 ## Prerequisites
 
